@@ -29,7 +29,7 @@ class App:
         self.buttonframe.place(relx=0.93, rely=0.5, width=200, height=195, anchor='n')
 
         self.logoframe = tk.Frame(window, bg='black', bd=5)
-        self.logoframe.place(relx=0.93, rely=0.055, width=200, height=250, anchor='n')
+        self.logoframe.place(relx=0.90, rely=0.055, width=200, height=250, anchor='n')
 
         self.canvas = tk.Canvas(self.frame, width=self.cap.width, height=self.cap.height)
         self.canvas.pack()
