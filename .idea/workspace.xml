@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3739f045-527d-45b8-90d2-b44b2e6eb650" name="Default Changelist" comment="" />
+    <list default="true" id="3739f045-527d-45b8-90d2-b44b2e6eb650" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual try on.py" beforeDir="false" afterPath="$PROJECT_DIR$/virtual try on.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VCfMKiAlc5ggYiO1oZkQ4VuG2W" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +31,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../opencv work" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.try on gui">
+  <component name="RunManager" selected="Python.virtual try on">
     <configuration name="MainUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Virtual mirror" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.try on gui" />
         <item itemvalue="Python.virtual try on" />
+        <item itemvalue="Python.try on gui" />
         <item itemvalue="Python.MainUI" />
         <item itemvalue="Python.clothes" />
       </list>
@@ -145,49 +151,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="169" key="FileChooserDialogImpl" timestamp="1584972889134">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="105" key="GridCell.Tab.0.bottom" timestamp="1598775097788">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="549" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584972889134" />
-    <state width="1515" height="126" key="GridCell.Tab.0.bottom" timestamp="1584004379165">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598775097788" />
+    <state width="1345" height="105" key="GridCell.Tab.0.center" timestamp="1598775097788">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584004379165" />
-    <state width="1515" height="126" key="GridCell.Tab.0.center" timestamp="1584004379165">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598775097788" />
+    <state width="1345" height="105" key="GridCell.Tab.0.left" timestamp="1598775097788">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584004379165" />
-    <state width="1515" height="126" key="GridCell.Tab.0.left" timestamp="1584004379165">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598775097788" />
+    <state width="1345" height="105" key="GridCell.Tab.0.right" timestamp="1598775097788">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584004379165" />
-    <state width="1515" height="126" key="GridCell.Tab.0.right" timestamp="1584004379165">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598775097788" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1598774699641">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584004379165" />
-    <state width="756" height="258" key="GridCell.Tab.1.bottom" timestamp="1578067747577">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="756" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578067747577" />
-    <state width="756" height="258" key="GridCell.Tab.1.center" timestamp="1578067747576">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="756" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578067747576" />
-    <state width="756" height="258" key="GridCell.Tab.1.left" timestamp="1578067747576">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="756" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578067747576" />
-    <state width="756" height="258" key="GridCell.Tab.1.right" timestamp="1578067747576">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="756" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578067747576" />
-    <state x="279" y="57" key="SettingsEditor" timestamp="1581342867895">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581342867895" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1584972875769">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584972875769" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598774699641" />
   </component>
 </project>
