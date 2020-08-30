@@ -8,3 +8,6 @@ There is no doubt that these are some of the attractive features that catches th
 
 So for this we have proposed a system which allows the user to see a virtual image of themselves in the desired cloth of their preference which increases the time efficiency and improve the accessibility of clothes try on by creating a virtual dressing room environment. Our proposed approach is mainly based on extraction of the user image from the video stream and alignment of models. Extraction of user allows us to create an augmented reality environment by isolating the user area from the video stream and superimposing it onto a virtual environment in the user interface. Finally, the user can see the image of the shirt on self and then choose to buy the product.
 
+<p align="center">
+  <img align="center" src="https://github.com/shag527/Virtual-Try-On/blob/master/Images/clothes.png">
+  </p>
